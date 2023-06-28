@@ -1,0 +1,8 @@
+C:\Curso C#\Seção 5\Construtores\bin\Debug\Construtores.exe.config
+C:\Curso C#\Seção 5\Construtores\bin\Debug\Construtores.exe
+C:\Curso C#\Seção 5\Construtores\bin\Debug\Construtores.pdb
+C:\Curso C#\Seção 5\Construtores\obj\Debug\Construtores.csproj.AssemblyReference.cache
+C:\Curso C#\Seção 5\Construtores\obj\Debug\Construtores.csproj.SuggestedBindingRedirects.cache
+C:\Curso C#\Seção 5\Construtores\obj\Debug\Construtores.csproj.CoreCompileInputs.cache
+C:\Curso C#\Seção 5\Construtores\obj\Debug\Construtores.exe
+C:\Curso C#\Seção 5\Construtores\obj\Debug\Construtores.pdb

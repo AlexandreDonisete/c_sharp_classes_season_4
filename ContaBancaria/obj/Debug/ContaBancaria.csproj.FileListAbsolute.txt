@@ -1,0 +1,8 @@
+C:\Curso C#\Seção 5\ContaBancaria\bin\Debug\ContaBancaria.exe.config
+C:\Curso C#\Seção 5\ContaBancaria\bin\Debug\ContaBancaria.exe
+C:\Curso C#\Seção 5\ContaBancaria\bin\Debug\ContaBancaria.pdb
+C:\Curso C#\Seção 5\ContaBancaria\obj\Debug\ContaBancaria.csproj.AssemblyReference.cache
+C:\Curso C#\Seção 5\ContaBancaria\obj\Debug\ContaBancaria.csproj.SuggestedBindingRedirects.cache
+C:\Curso C#\Seção 5\ContaBancaria\obj\Debug\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Curso C#\Seção 5\ContaBancaria\obj\Debug\ContaBancaria.exe
+C:\Curso C#\Seção 5\ContaBancaria\obj\Debug\ContaBancaria.pdb
